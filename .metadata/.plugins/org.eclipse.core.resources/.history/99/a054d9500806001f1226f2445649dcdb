@@ -1,0 +1,9 @@
+package homework.basic;
+
+public class _09_Problem {
+
+	public static void main(String[] args) {
+		int[] intArr = new int[10];
+	}
+
+}

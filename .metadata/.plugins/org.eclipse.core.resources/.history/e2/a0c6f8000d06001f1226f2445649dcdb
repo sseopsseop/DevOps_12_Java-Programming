@@ -1,0 +1,40 @@
+package homework.middle;
+
+public class _06_Problem {
+	public static void main(String[] args) {
+//		6. 중첩 for문을 이용해서 아래와 같이 출력하세요.
+//		6-1)  
+//		*
+//		**
+//		***
+//		****
+//		*****
+		final int WIDTH = 5;
+		final int HEIGHT = 5;
+		for(int i = 0; i < WIDTH; ++i) {
+			for(int j = 0; j < HEIGHT; _++j) {
+				
+			}
+		}
+		
+		
+//		6-2)
+//		    *
+//		   **
+//		  ***
+//		 ****
+//		*****
+//		6-3)
+//		*****
+//		****
+//		***
+//		**
+//		*
+//		6-4)
+//		*****
+//		 ****
+//		  ***
+//		   **
+//		    *
+	}
+}

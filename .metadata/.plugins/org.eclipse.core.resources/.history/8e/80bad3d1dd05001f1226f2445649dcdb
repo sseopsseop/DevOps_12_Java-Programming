@@ -1,0 +1,32 @@
+package chap04_controlstatement;
+
+import java.util.Scanner;
+
+public class _09_Break02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 2. 사용자가 입력한 숫자 단까지 구구단을 출력하는 프로그램을 작성하세요. 0을 입력하면 종료하세요.
+		Scanner sc = new Scanner(System.in);
+		
+		int dan = 0;
+		while(true) {
+			System.out.print("1~9 사이 숫자를 입력하세요 : ");
+			dan = sc.nextInt();
+			if(dan == 0) {
+				System.out.println("구구단 출력 프로그램을 종료합니다.");
+				break;
+			}
+			System.out.println(dan+"단까지 출력합니다");
+			
+			for(int i = 1; i < dan; ++i) {
+				System.out.print(i+"단 : ");
+				for(int j = 1; j <= 9; ++j) {
+					System.out.print(i +" * " + j + " = " + i*j + " ");
+				}
+				System.out.println(i + "단 출력 종료");
+			}
+		}
+	}
+
+}

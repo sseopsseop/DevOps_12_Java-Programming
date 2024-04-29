@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<session version="1.0">&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;JavaProgramming&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgramming&apos;&#x0D;&#x0A;- Original element: &apos;chap05_array._04_ArrayExample.java&apos;" description="Delete element" element1="/src&lt;chap05_array{_04_ArrayExample.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1714379337164" subPackages="false" version="1.0"/>&#x0A;<refactoring comment="Rename package &apos;homework.advanced&apos; to &apos;homework.advance&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgramming&apos;&#x0D;&#x0A;- Original element: &apos;JavaProgramming/src/homework.advanced&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaProgramming/src/homework.advance&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;homework.advanced&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;homework.advanced" name="homework.advance" qualified="false" references="true" stamp="1714384315372" textual="false" version="1.0"/>
+=======
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;JavaProgramming&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgramming&apos;&#x0D;&#x0A;- Original element: &apos;chap05_array._04_ArrayExample.java&apos;" description="Delete element" element1="/src&lt;chap05_array{_04_ArrayExample.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1714379337164" subPackages="false" version="1.0"/>
+>>>>>>> origin/main
+</session>

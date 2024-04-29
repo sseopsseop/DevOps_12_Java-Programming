@@ -1,0 +1,28 @@
+package chap05_array;
+
+import java.util.Random;
+
+public class _04_ArrayExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Random random = new Random();
+		
+		// 0, 1, 2 중 랜덤한 값
+		int randomVal = random.nextInt(3);
+		System.out.println(randomVal);
+		System.out.println("-----------------------");
+		
+		// 1, 2, 3 중 랜덤한 값
+		randomVal = random.nextInt(3) + 1;
+		System.out.println(randomVal);
+		System.out.println("-----------------------");
+		
+		// 1 ~ 100 중 랜덤한 값
+		randomVal = random.nextInt(100) + 1;
+		System.out.println(randomVal);
+		System.out.println("-----------------------");
+	}
+
+}

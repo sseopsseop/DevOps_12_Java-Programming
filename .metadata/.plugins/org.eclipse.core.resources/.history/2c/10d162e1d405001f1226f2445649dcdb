@@ -1,0 +1,7 @@
+package chap04_controlstatement;
+
+public class _07_DuplicatedFor {
+	public static void main(String[] args) {
+		
+	}
+}

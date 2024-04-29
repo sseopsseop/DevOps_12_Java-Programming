@@ -1,0 +1,10 @@
+package chap04_controlstatement;
+
+public class _06_DoWhile {
+	public static void main(String[] args) {
+		// 1. do-While: 조건식을 따지기 전에 소스코드를 무조건 1회 실행
+		do {
+			System.out.println("무조건 1회 실행");
+		}
+	}
+}
