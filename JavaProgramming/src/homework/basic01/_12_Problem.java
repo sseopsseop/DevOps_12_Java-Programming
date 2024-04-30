@@ -13,8 +13,11 @@ public class _12_Problem {
 		for(int i = 0; i < inputIntArr.length; ++i) {
 			System.out.print(i+"번째 배열에 값을 입력하세요 : ");
 			inputIntArr[i] = sc.nextInt();
+		}
+		
+		for(int i = 0; i < inputIntArr.length; ++i) {
 			if(inputIntArr[i] % 2 == 0 || inputIntArr[i] % 3 == 0)
-				System.out.println(inputIntArr[i]+"는 2의 배수 또는 3의 배수이다.");
+				System.out.println("inputIntArr["+i+"] = "+inputIntArr[i]+"는 2의 배수 또는 3의 배수이다.");
 		}
 		
 		
