@@ -1,0 +1,10 @@
+package chap06_method;
+
+import chap06_method.calc.ReturnCalculator;
+
+public class _02_ReturnType {
+	public static void main(String[] args) {
+		ReturnCalculator rc = new ReturnCalculator();
+	}
+
+}
