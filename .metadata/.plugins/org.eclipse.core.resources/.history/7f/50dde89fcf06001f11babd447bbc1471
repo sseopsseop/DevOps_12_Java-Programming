@@ -1,0 +1,10 @@
+package homework.basic02;
+
+public class Problem01 {
+
+	
+	public int totalSum(int last) {
+		
+	}
+	
+}
