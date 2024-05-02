@@ -1,0 +1,6 @@
+package chap07_class.circle;
+
+public class Circle {
+
+	double PI = 3.14;
+}

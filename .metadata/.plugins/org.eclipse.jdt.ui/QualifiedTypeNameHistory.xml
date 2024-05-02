@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="chap06_method.AccessModifierCalculatorChild"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.ReturnCalculator"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.AccessModifierCalculator"/>
+    <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="homework.advance02.RockScissPaper"/>
 </qualifiedTypeNameHistroy>

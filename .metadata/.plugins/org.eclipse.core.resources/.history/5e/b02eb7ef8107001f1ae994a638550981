@@ -1,0 +1,22 @@
+package chap07_class.circle;
+
+public class Circle {
+
+	private final double PI = 3.14;
+	private int radius;
+	
+	public Circle() {
+		
+	}
+	public Circle(int radius) {
+		this.radius = radius;
+	}
+	
+	public double getRound() {
+		return 2*PI*radius;
+	}
+	
+	public double getArea() {
+		return PI * radius * radius;
+	}
+}
