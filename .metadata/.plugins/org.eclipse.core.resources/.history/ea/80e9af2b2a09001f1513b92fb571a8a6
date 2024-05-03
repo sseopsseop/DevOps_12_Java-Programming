@@ -1,0 +1,10 @@
+package homework.middle05;
+
+public class _01_Problem {
+	public static void main(String[] args) {
+		String str = "안녕하세요";
+		System.out.println(str);
+		
+		System.out.println(new Reverse().reverseString(str));
+	}
+}

@@ -1,0 +1,6 @@
+package chap12_interface.multiflex;
+
+public class Theater {
+	public abstract void playMovie();
+
+}

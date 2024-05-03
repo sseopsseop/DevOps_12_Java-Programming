@@ -1,0 +1,38 @@
+package homework.advance05;
+
+public class ComStudent extends CommonStat implements Student {
+
+	public ComStudent() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public ComStudent(int sno, String name, String[] subject, int[] finalExamScore) {
+		super(sno, name, subject, finalExamScore);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void saveInfo() {
+		// TODO Auto-generated method stub
+		super.setSno(3);
+		super.setName("김유신");
+		String[] subjects = {"컴퓨터1", "컴퓨터2", "컴퓨터3"};
+		int[] finalExamScores = {10, 30, 50};
+		super.setSubject(subjects);
+		super.setFinalExamScore(finalExamScores);
+	}
+
+	@Override
+	public void printInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double getAvg() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

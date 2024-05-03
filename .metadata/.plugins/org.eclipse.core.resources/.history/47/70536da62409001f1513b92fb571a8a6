@@ -1,0 +1,36 @@
+package homework.advance05;
+
+public class MathStudent extends CommonStat implements Student{
+
+	
+	public MathStudent() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public MathStudent(int sno, String name, String[] subject, int[] finalExamScore) {
+		super(sno, name, subject, finalExamScore);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void saveInfo() {
+		// TODO Auto-generated method stub
+		sno = 1;
+		name = "홍길동";
+		
+	}
+
+	@Override
+	public void printInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double getAvg() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

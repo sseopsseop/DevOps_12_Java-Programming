@@ -18,12 +18,20 @@ public class UserBook {
 	}
 	
 	public void saveUserInfo(String username, String password) {
-		for(int i = 0; i < userArr.length; ++i) {
-			this.userArr[i].setId(i+1);
-			this.userArr[i].setUsername(username);
-			this.userArr[i].setPassword(password);
-		}
-		
+		if(this.currIdx >= userArr.length) return;
+		User user = new User();
+		user.setId(this.currIdx + 1);
+		user.setUsername(username);
+		user.setPassword(password);
+		this.currIdx++;
+	}
+	
+	public void printUserInfo(int index) {
+		if(userArr[index] != null) {
+			System.out.println("id: "+ userArr[index].getId() + ",  "
+					+ "username: " + userArr[index].getUsername() + ", "
+							+ "password: "+ userArr[index].getPassword());
+		}else System.out.println("해당 인덱스에 저장된 데이터가 없습니다.");
 	}
 	
 }

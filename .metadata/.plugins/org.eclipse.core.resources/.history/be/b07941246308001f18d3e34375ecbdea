@@ -1,0 +1,12 @@
+package homework.basic04;
+
+public class Parent {
+
+	private String firstname;
+	private String bloodType;
+	private String height;
+	private String skinColor;
+	public Parent() {
+		
+	}
+}

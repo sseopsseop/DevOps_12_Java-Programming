@@ -1,0 +1,10 @@
+package homework.advance04;
+
+public class _01_Problem {
+
+	public static void main(String[] args) {
+		for(int num : ArrayUtility2.concat(null, null)) {
+			
+		}
+	}
+}

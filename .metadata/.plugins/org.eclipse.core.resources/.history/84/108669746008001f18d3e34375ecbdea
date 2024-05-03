@@ -1,0 +1,10 @@
+package homework.basic04;
+
+public class MamMal {
+	public MamMal() {}
+	
+	public void feed() {
+		System.out.println("젖을 먹이다");
+	}
+
+}

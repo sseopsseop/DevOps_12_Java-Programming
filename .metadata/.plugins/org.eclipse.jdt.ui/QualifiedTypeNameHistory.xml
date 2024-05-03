@@ -7,4 +7,26 @@
     <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="homework.advance02.RockScissPaper"/>
+    <fullyQualifiedTypeName name="chap07_class.car.Car"/>
+    <fullyQualifiedTypeName name="chap08_static.car.CarStatic"/>
+    <fullyQualifiedTypeName name="chap09_inherit.car.KiaCarInherit"/>
+    <fullyQualifiedTypeName name="chap09_inherit.car.HyundaiCarInherit"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="chap10_polymorphism.member.Member"/>
+    <fullyQualifiedTypeName name="chap09_inherit.board.NoticeBoard"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.board.Board"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.board.FreeBoard"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.board.NoticeBoard"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.tv.Tv"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.tv.LgTv"/>
+    <fullyQualifiedTypeName name="chap11_abstraction.tv.SamsungTv"/>
+    <fullyQualifiedTypeName name="homework.advance04.ArrayUtility2"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework04.RegularEmployee"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework04.TempEmployee"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework04.ContractEmployee"/>
+    <fullyQualifiedTypeName name="chap12_interface.multiflex.SeoulMultiflexStadium"/>
+    <fullyQualifiedTypeName name="chap12_interface.device.SamsungTv"/>
+    <fullyQualifiedTypeName name="chap12_interface.device.Tv"/>
+    <fullyQualifiedTypeName name="chap12_interface.device.LgTv"/>
+    <fullyQualifiedTypeName name="chap12_interface.device.ElectronicDevice"/>
 </qualifiedTypeNameHistroy>

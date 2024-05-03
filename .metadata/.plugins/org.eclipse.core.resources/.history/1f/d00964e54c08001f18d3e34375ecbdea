@@ -1,0 +1,10 @@
+package chap10_polymorphism.member;
+
+public class Member {
+
+	private long id;
+	private String userId;
+	private String userEmail;
+	private String userNickname;
+	
+}

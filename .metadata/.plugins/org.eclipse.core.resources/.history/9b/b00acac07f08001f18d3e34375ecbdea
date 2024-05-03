@@ -1,0 +1,17 @@
+package homework.advance04;
+
+public class ContractWorker extends Employee{
+	// 계약직 : int workDay, 월급 = pay * workDay
+	
+	private int workDay;
+	
+	public void showEmployeeInfo() {
+		System.out.println("사번 : " + super.getEno() + ", 이름 : "+ super.getName() + ", "
+				+ "급여 : " + super.getPay()+", 근무형태 : "+getEmployType());
+	}
+	@Override
+	public double getMonthPay() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+}

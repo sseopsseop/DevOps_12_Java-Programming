@@ -18,7 +18,7 @@ public class SmartPhone {
 		this.battery = battery;
 	}
 	
-	public void bootPhone() {
+	public void turnOn() {
 		System.out.println("스마트폰을 작동합니다");
 	}
 	

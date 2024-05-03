@@ -1,0 +1,6 @@
+package homework.basic04;
+
+public class ChildB extends Parent {
+	private boolean isFingerPrint;
+
+}

@@ -1,0 +1,10 @@
+package homework.advance05;
+
+public interface Student {
+//	Student - void saveInfo();
+//  		- void printInfo();
+// 			- double getAvg(); 
+	public void saveInfo();
+	public void printInfo();
+	public double getAvg();
+}

@@ -1,0 +1,10 @@
+package homework.basic04;
+
+public class Parent {
+
+	private String firstname;
+	private String bloodType;
+	public Parent() {
+		
+	}
+}

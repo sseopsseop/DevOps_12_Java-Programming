@@ -1,0 +1,5 @@
+package homework.basic04;
+
+public class ChildA extends Parent {
+	private String name;
+}

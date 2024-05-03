@@ -9,10 +9,11 @@ public class PhoneInfo {
 
 	public void insertPhoneInfo(String name, String phoneNum) {
 	    //매개변수로 전달된 이름과 번호를 각각의 배열에 저장하는 기능 구현
-		for(int i = 0; i < names.length; ++i) {
-			names[i] = name;
-			phoneNums[i] = phoneNum;
-		}
+		if(index >= names.length) return;
+		names[index] = name;
+		phoneNums[index] = phoneNum;
+		index++;
+		
 	}
 
 	public void printAllPhoneInfo() {
@@ -24,6 +25,8 @@ public class PhoneInfo {
 
 	public void printPhoneInfo(int index) {
 	    //매개변수로 전달된 인덱스에 해당하는 이름과 번호 출력하는 기능 구현
-		System.out.println(index+"번째 이름 : " + names[index] + ", 번호 : " + phoneNums[index]);
+		if(names[index] == null)
+			System.out.println(index+"번째 이름 : " + names[index] + ","
+					+ " 번호 : " + phoneNums[index]);
 	}
 }

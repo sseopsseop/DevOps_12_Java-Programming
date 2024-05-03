@@ -1,0 +1,23 @@
+package homework.basic04;
+
+public class Parent {
+
+	private String firstname;
+	private String bloodType;
+	private double height;
+	private String skinColor;
+	
+	public Parent() {
+		
+	}
+
+	public Parent(String firstname, String bloodType, double height, String skinColor) {
+		super();
+		this.firstname = firstname;
+		this.bloodType = bloodType;
+		this.height = height;
+		this.skinColor = skinColor;
+	}
+	
+	
+}

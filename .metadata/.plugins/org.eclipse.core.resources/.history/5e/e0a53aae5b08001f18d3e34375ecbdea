@@ -1,0 +1,31 @@
+package chap11_abstraction.tv;
+
+public abstract class Tv {
+	public int lastChannel;
+	
+	public Tv() {
+		lastChannel = 1;
+	}
+	
+	public abstract void powerOn();
+	public void powerOff() {
+		System.out.println("TV의 전원을 끕니다");
+	}
+	
+	void operate(int channel) {
+		lastChannel = channel;
+		moveTo(channel);
+	}
+	
+	public void moveTo(int channel) {
+		System.out.println(channel + "로 이동합니다.");
+	}
+	
+	public void channelUp() {
+		lastChannel++;
+	}
+	
+	public void channelDown() {
+		lastChannel--;
+	}
+}

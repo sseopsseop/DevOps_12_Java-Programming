@@ -1,0 +1,28 @@
+package homework.basic04;
+
+public class _01_Problem {
+
+	public static void main(String[] args) {
+		Mammal mammal = new Mammal();
+		
+		mammal.feed();
+		mammal.bear();
+		
+		Felidae felidae = new Felidae();
+		felidae.feed();
+		felidae.bear();
+		felidae.eatMeat();
+		felidae.claw();
+		
+		Tiger tiger = new Tiger();
+		tiger.feed();
+		tiger.bear();
+		tiger.eatMeat();
+		tiger.claw();
+		
+		Lion lion = new Lion();
+		
+		
+	}
+
+}
