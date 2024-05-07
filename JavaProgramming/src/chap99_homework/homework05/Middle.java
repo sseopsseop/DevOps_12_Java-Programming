@@ -21,10 +21,7 @@ public class Middle {
 //		2. 사용자가 입력한 문자열에서 중복된 문자를 제거한 문자열을 출력하세요.
 		System.out.print("문자열을 입력하세요.");
 		String str2 = sc.nextLine();
-		str2.indexOf('a');
-		String.valueOf(1111);
-		Integer.valueOf(1111).toString();
-		System.out.println(str2.getClass());
+		 
 		for(int i = 0; i < str2.length(); i++) {
 			for(int j = 0; j < i; j++) {
 				if(str2.charAt(i) == str2.charAt(j)) {
@@ -40,22 +37,31 @@ public class Middle {
 //		3. 사용자가 입력한 문자열에서 3의 배수 자리의 문자는 3으로 
 //		5의 배수 자리의 문자는 5로 변경하여 출력하세요.
 		System.out.print("문자열을 입력하세요.");
+		// ab35edf
 		String str3 = sc.nextLine();
-		char[] chArr = str3.toCharArray();
+		String newStr = "";
 		
-		for(int i = 0; i < chArr.length; i++) {
-			if((i + 1) % 3 == 0) {
-				chArr[i] = '3';
-			} else if((i + 1) % 5 == 0) {
-				chArr[i] = '5';
+		for(int k = 0; k < str3.length(); k++) {
+			if(k > 0) {
+				if(k % 3 == 0 && k % 5 == 0) {
+					newStr += "35";
+				} else {
+					if(k % 3 == 0) {
+						newStr += "3";
+					} else if(k % 5 == 0) {
+						newStr += "5";
+					} else {
+						newStr += str3.charAt(k);
+					}
+				}
+			} else {
+				newStr += str3.charAt(k);
 			}
 		}
 		
-		str3 = new String(chArr);
-		
-		System.out.println(str3);
+		System.out.println(newStr);
 		
 		sc.close();
-	}
 
+	}
 }

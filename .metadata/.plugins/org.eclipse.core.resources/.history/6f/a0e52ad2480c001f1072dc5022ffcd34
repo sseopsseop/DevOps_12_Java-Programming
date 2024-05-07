@@ -1,0 +1,20 @@
+package chap16_usefulClass;
+
+public class _01_Object {
+	public static class ObjectExample{
+		private int num1;
+		private int num2;
+		
+		public ObjectExample() {
+			
+		}
+		
+		public ObjectExample(int num1, int num2) {
+			
+		}
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

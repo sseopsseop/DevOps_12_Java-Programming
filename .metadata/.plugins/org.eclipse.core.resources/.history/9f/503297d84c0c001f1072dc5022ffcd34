@@ -1,0 +1,7 @@
+package homework.advance06;
+
+public class PrintStudentRank {
+	public void makeMajorArr() {
+		
+	}
+}

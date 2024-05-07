@@ -1,0 +1,7 @@
+package chap15_exception;
+
+public class _03_CheckedException {
+	public static void main(String[] args) {
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+	}
+}

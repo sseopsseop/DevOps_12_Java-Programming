@@ -1,0 +1,12 @@
+package homework.middle06;
+
+public class _03_Problem {
+	public static void main(String[] args) {
+//		3. 처음에 은행에 맡긴 돈은 10000원입니다
+//		   금리는 연 10%입니다
+//		   복리이자로 계산했을 때 10년후 얼마가 될까요?
+//		원금이 A, 이율이 r, 기간이 n일 경우 복리법에 의한 원리합계는 A(1+n)^n
+		
+		int principal;
+	}
+}

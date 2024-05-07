@@ -1,0 +1,18 @@
+package chap14_objectarray.car;
+
+public class KiaCar extends CarStat implements CarInterface{
+
+	public KiaCar() {
+		
+	}
+	
+	public KiaCar(String model, int price, String color) {
+		
+	}
+	
+	@Override
+	public void carInfo() {
+		
+	}
+
+}
