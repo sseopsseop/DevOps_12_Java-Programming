@@ -1,0 +1,8 @@
+package chap16_usefulclass;
+
+public class _06_StringBuffer {
+
+	public static void main(String[] args) {
+		// 1. StringBuffer 객체 생성
+	}
+}

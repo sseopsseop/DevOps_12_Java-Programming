@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="chap06_method.calc.ReturnCalculator"/>
     <fullyQualifiedTypeName name="chap06_method.calc.AccessModifierCalculator"/>
     <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="homework.advance02.RockScissPaper"/>
     <fullyQualifiedTypeName name="chap07_class.car.Car"/>
     <fullyQualifiedTypeName name="chap08_static.car.CarStatic"/>
@@ -40,4 +39,5 @@
     <fullyQualifiedTypeName name="chap16_usefulclass._01_Object.ObjectExample"/>
     <fullyQualifiedTypeName name="chap16_usefulclass._01_Object"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

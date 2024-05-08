@@ -1,0 +1,47 @@
+package chap16_usefulclass;
+
+import java.util.Scanner;
+
+public class _10_MathEx {
+	public static void main(String[] args) {
+		 // 사용자가 5개의 정수를 입력하고 배열에 저장
+		// 배열에 저장된 정수 5개 중 최대값과 최소값을 구하세요.
+		// Math.max, Math.min  메소드를 이용하세요
+		int[] intArr = new int[5];
+
+		int[] tempIntArr = new int[5];
+		
+		int maxIdx = 0;
+		int minIdx = 0;
+		
+		Scanner sc = new Scanner(System.in);
+		for(int i = 0; i < intArr.length; ++i) {
+			System.out.print(i+1+"번째 정수 입력 : ");
+			intArr[i] = sc.nextInt();
+			if(Math.max(intArr[maxIdx], intArr[i]) != intArr[maxIdx]){
+				maxIdx = i;
+			}
+			if(Math.min(intArr[maxIdx], intArr[i]) != intArr[minIdx]){
+				minIdx = i;
+			}
+		}
+		sc.nextLine();
+		
+		System.out.println(maxIdx +" " + minIdx);
+	
+		for(int i = 0; i < intArr.length; ++i) {
+			for(int j = i+1; j < intArr.length; ++j) {
+				if(Math.max(tempIntArr[i], tempIntArr[j]) == tempIntArr[j]) {
+					int temp = tempIntArr[i];
+					tempIntArr[i] = tempIntArr[j];
+					tempIntArr[j] = temp;
+				}
+			}
+		}
+
+		System.out.println("최대값 : " + tempIntArr[0]);
+		System.out.println("최소값 : " + tempIntArr[tempIntArr.length - 1]);
+		
+		sc.close();
+	}
+}

@@ -1,0 +1,10 @@
+package chap16_usefulclass;
+
+public class String01 {
+	public static void main(String[] args) {
+		// 1. String 객체 ㅅ ㅐㅇ성
+		String str1 = "bitcamp";
+		String str2 = new String("bitcamp");
+		String str3 = new String(new char[] {'b','i','t','c','a','m','p'});
+	}
+}

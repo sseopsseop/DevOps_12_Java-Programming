@@ -1,0 +1,8 @@
+package chap16_usefulclass;
+
+public class _06_StringBuffer {
+
+	public static void main(String[] args) {
+		
+	}
+}
