@@ -7,7 +7,6 @@ public class _02_Problem {
 //		bit => 0, 4, 8 com => 1, 5, 9 sql => 2, 6, 10 int => 3, 7, 11
 		char[] chArr = {'b', 'c', 's', 'i', 'i', 'o', 'q', 'n', 't', 'm', 'l', 't'};
 		
-		// 나머지 연산을 활용
 		int stepSize = 4;
 		for(int i = 0; i <= chArr.length / stepSize; ++i) {
 			for(int j = i; j < chArr.length; j+=stepSize) {

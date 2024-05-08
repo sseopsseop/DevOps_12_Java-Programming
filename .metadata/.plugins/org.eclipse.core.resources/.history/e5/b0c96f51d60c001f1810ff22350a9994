@@ -53,6 +53,8 @@ public class Middle {
 			else if(i % 4 == 1) charArr2[i] = com.charAt(i / 4);
 			else if(i % 4 == 2) charArr2[i] = sql.charAt(i / 4);
 			else charArr2[i] = intStr.charAt(i / 4);
+
+			charArr2[i] = temp;
 		}
 		
 		System.out.println(charArr2);
