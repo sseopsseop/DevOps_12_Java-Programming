@@ -1,8 +1,0 @@
-package chap05_array;
-
-public class _08_Lotto {
-	public static void main(String[] args) {
-		
-	}
-
-}

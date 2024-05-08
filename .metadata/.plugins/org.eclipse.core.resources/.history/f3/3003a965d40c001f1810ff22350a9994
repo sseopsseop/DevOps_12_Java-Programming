@@ -19,7 +19,7 @@ public class _02_Problem {
 //		inputStr = inputStr.replace("o", "");
 //		inputStr = inputStr.replace("u", "");
 		
-		inputStr = inputStr.replaceAll("[aeiouAEIOU]", "");
+		inputStr = inputStr.replaceAll("[aeiouAEIOU]", inputStr);
 	
 		System.out.println("알파벳 모음 제거한 문자열 : " + inputStr);
 		

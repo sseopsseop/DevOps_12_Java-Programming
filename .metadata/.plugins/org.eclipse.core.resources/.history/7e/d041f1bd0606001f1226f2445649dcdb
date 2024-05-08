@@ -1,7 +1,0 @@
-package homework.basic;
-
-public class _03_Problem {
-	public static void main(String[] args) {
-		int num = 10;
-	}
-}

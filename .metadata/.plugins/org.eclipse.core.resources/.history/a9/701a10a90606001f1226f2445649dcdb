@@ -1,8 +1,0 @@
-package homework.basic;
-
-public class _03_Problem {
-	int num = 10;
-	while(num > 0) {
-		
-	}
-}

@@ -13,13 +13,11 @@ public class _02_Problem {
 		
 		System.out.println("사용자가 입력한 문자열 : "+inputStr);
 		
-//		inputStr = inputStr.replace("a", "");
-//		inputStr = inputStr.replace("e", "");
-//		inputStr = inputStr.replace("i", "");
-//		inputStr = inputStr.replace("o", "");
-//		inputStr = inputStr.replace("u", "");
-		
-		inputStr = inputStr.replaceAll("[aeiouAEIOU]", "");
+		inputStr = inputStr.replace("a", "");
+		inputStr = inputStr.replace("e", "");
+		inputStr = inputStr.replace("i", "");
+		inputStr = inputStr.replace("o", "");
+		inputStr = inputStr.replace("u", "");
 	
 		System.out.println("알파벳 모음 제거한 문자열 : " + inputStr);
 		

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="chap06_method.AccessModifierCalculatorChild"/>
     <fullyQualifiedTypeName name="chap06_method.calc.ReturnCalculator"/>
     <fullyQualifiedTypeName name="chap06_method.calc.AccessModifierCalculator"/>
@@ -29,4 +28,16 @@
     <fullyQualifiedTypeName name="chap12_interface.device.Tv"/>
     <fullyQualifiedTypeName name="chap12_interface.device.LgTv"/>
     <fullyQualifiedTypeName name="chap12_interface.device.ElectronicDevice"/>
+    <fullyQualifiedTypeName name="chap99_homework.homework05.InputStudentInfo"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Mul"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.NestedClass.Div"/>
+    <fullyQualifiedTypeName name="chap13_nestedclass.nestedclass.LocalNestedClass"/>
+    <fullyQualifiedTypeName name="chap14_objectarray.car.Car"/>
+    <fullyQualifiedTypeName name="chap14_objectarray.car.HyundaiCar"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="chap15_exception._01_Exception"/>
+    <fullyQualifiedTypeName name="chap16_usefulclass._01_Object.ObjectExample"/>
+    <fullyQualifiedTypeName name="chap16_usefulclass._01_Object"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
