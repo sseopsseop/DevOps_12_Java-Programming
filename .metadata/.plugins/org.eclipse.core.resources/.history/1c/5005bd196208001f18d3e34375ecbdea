@@ -1,9 +1,0 @@
-package homework.basic04;
-
-public class _01_Problem {
-
-	public static void main(String[] args) {
-		Mammal mammal = new Mammal();
-	}
-
-}

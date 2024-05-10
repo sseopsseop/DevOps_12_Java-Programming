@@ -1,5 +1,0 @@
-package homework.basic04;
-
-public class ChildA extends Parent {
-
-}

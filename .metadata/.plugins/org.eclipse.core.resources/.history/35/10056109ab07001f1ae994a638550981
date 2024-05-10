@@ -1,7 +1,0 @@
-package homework.basic03;
-
-public class BasicMain {
-	public static void main(String[] args) {
-		
-	}
-}

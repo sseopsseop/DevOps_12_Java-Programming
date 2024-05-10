@@ -1,4 +1,4 @@
-package chap99_homework.homework05;
+package homework.advance06;
 
 public interface Car {
 	void speedUp();

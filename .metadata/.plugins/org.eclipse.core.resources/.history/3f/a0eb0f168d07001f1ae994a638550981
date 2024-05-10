@@ -1,9 +1,0 @@
-package chap07_class;
-
-public class _05_UseOfNumbaseball {
-
-	public static void main(String[] args) {
-		
-	}
-
-}
