@@ -1,0 +1,7 @@
+package chap19_generic;
+
+public class _03_GenericClassBoard {
+	public static void main(String[] args) {
+		BoardFile<FreeBoard> freeBoardFile = new BoardFile<>();
+	}
+}

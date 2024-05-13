@@ -1,0 +1,7 @@
+package chap20_enum;
+
+public class _05_RGBEnum {
+	public static void main(String[] args) {
+		
+	}
+}

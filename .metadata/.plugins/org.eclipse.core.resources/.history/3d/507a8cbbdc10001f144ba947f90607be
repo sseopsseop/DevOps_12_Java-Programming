@@ -1,0 +1,11 @@
+package chap19_generic;
+
+import chap19_generic.ramyun.Gimchi;
+import chap19_generic.ramyun.LimitedRamyun01;
+
+public class _05_LimitedGenericClass {
+	public static void main(String[] args) {
+		
+		LimitedRamyun<Gimchi> gimchiRamyun = new LimitedRamyun01<Gimchi>();
+	}
+}

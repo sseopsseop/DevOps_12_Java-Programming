@@ -1,0 +1,7 @@
+package chap19_generic;
+
+public class _05_LimitedGenericClass {
+	public static void main(String[] args) {
+		
+	}
+}
