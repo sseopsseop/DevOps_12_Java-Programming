@@ -1,0 +1,26 @@
+package homework.middle10;
+
+import homework.middle10.classes.Calc;
+
+public class _02_Problem {
+	public static void main(String[] args) {
+		Double[] dArr = {100.1, 1.2, 2.3, 3.4};
+		
+		Calc<Double> dCalc = new Calc<>();
+		
+		System.out.println(dCalc.add(dArr));
+		System.out.println(dCalc.sub(dArr));
+		System.out.println(dCalc.mul(dArr));
+		System.out.println(dCalc.div(dArr));
+		
+		Integer[] iArr = {200, 2, 3, 4};
+		
+		Calc<Integer> iCalc = new Calc<>();
+		
+		System.out.println(iCalc.add(iArr));
+		System.out.println(iCalc.sub(iArr));
+		System.out.println(iCalc.mul(iArr));
+		System.out.println(iCalc.div(iArr));
+		
+	}
+}

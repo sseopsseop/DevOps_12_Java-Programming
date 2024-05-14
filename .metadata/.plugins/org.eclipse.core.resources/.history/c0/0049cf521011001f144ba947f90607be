@@ -1,0 +1,5 @@
+package homework.basic10.classes;
+
+public enum CountryFood {
+
+}

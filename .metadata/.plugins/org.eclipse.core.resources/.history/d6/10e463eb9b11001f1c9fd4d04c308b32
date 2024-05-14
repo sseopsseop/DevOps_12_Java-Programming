@@ -1,0 +1,5 @@
+package chap21_multithread.thread;
+
+public class PrintNum {
+	
+}

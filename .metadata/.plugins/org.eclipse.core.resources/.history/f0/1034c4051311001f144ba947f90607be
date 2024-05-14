@@ -1,0 +1,17 @@
+package homework.middle10;
+
+import homework.middle10.classes.Calc;
+
+public class _02_Problem {
+	public static void main(String[] args) {
+		Double[] dArr = {100.0, 1.0, 2.0, 3.0};
+		
+		Calc<Double> dCalc = new Calc<>();
+		
+		System.out.println(dCalc.add(dArr));
+		System.out.println(dCalc.sub(dArr));
+		System.out.println(dCalc.mul(dArr));
+		System.out.println(dCalc.div(dArr));
+		
+	}
+}

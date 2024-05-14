@@ -1,6 +1,0 @@
-package homework.basic05;
-
-public interface FuelCar {
-
-	public void addFuel();
-}

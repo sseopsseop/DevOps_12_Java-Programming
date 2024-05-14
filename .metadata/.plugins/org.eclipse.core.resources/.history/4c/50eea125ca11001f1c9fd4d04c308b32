@@ -1,0 +1,5 @@
+package homework.advance10;
+
+public enum Month {
+
+}

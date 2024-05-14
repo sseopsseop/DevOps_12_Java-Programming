@@ -1,5 +1,0 @@
-package homework.advance05;
-
-public class MathStudent implements Student{
-
-}

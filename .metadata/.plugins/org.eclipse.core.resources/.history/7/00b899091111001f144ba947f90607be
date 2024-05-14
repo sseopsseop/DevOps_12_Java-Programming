@@ -1,0 +1,9 @@
+package homework.basic10;
+
+import homework.basic10.classes.CountryFood;
+
+public class _07_Problem {
+	public static void main(String[] args) {
+		CountryFood kor = CountryFood.KOR;
+	}
+}

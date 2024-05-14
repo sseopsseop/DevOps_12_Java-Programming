@@ -1,9 +1,0 @@
-package homework.middle05;
-
-public class _02_Problem {
-	public static void main(String[] args) {
-		String str1 = "aaabbccab";
-		String str2 = "abc";
-	}
-
-}

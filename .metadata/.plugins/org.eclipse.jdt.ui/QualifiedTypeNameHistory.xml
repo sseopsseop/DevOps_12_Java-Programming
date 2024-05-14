@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap06_method.AccessModifierCalculatorChild"/>
-    <fullyQualifiedTypeName name="chap06_method.calc.ReturnCalculator"/>
-    <fullyQualifiedTypeName name="chap06_method.calc.AccessModifierCalculator"/>
-    <fullyQualifiedTypeName name="chap06_method.calc.ParameterCalculator"/>
     <fullyQualifiedTypeName name="homework.advance02.RockScissPaper"/>
     <fullyQualifiedTypeName name="chap07_class.car.Car"/>
     <fullyQualifiedTypeName name="chap08_static.car.CarStatic"/>
@@ -52,4 +48,16 @@
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="chap19_generic.board.FreeBoard"/>
+    <fullyQualifiedTypeName name="chap19_generic._04_GenericMethod"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="chap19_generic.ramyun.LimitedRamyun01"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.ValueMonth"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.MultiValueMonth"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.RGB"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.MethodMonth"/>
+    <fullyQualifiedTypeName name="chap20_enum.enums.Season"/>
+    <fullyQualifiedTypeName name="V"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 </qualifiedTypeNameHistroy>
