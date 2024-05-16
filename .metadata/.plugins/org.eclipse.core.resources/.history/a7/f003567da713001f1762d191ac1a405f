@@ -1,0 +1,7 @@
+package homework.middle13;
+
+public class IntArrUtils {
+	public static int getMax() {}
+	public static int getMin() {} 
+	public static int getMid() {}
+}
