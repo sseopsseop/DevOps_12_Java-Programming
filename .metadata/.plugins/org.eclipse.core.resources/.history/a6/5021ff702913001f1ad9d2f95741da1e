@@ -1,0 +1,7 @@
+package homework.basic12.first.variables;
+
+public class _02_Problem {
+	public static void main(String[] args) {
+		Scanner sc = new Scaneer(System.in);
+	}
+}

@@ -1,0 +1,5 @@
+package homework.middle13;
+
+public interface ReverseStringBuilder {
+
+}

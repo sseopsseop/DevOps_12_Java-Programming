@@ -1,0 +1,6 @@
+package homework.middle13;
+
+@FunctionalInterface
+public interface AppendSb {
+	public StringBuilder appendSb()
+}

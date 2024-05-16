@@ -1,0 +1,12 @@
+package chap23_stream;
+
+import java.util.List;
+
+public class _02_StreamMethodOrder {
+	public static void main(String[] args) {
+		List<String> strList = new ArrayList<>();
+		
+		strList.add("java");
+		strList.add("html");
+	}
+}

@@ -1,0 +1,9 @@
+package chap22_lambda.basiclambda;
+
+public class MulAndDiv {
+	public void singleMul(int num1, SingleMul singleMul) {
+		singleMul.singleMultiply(num1);
+	}
+	
+	
+}

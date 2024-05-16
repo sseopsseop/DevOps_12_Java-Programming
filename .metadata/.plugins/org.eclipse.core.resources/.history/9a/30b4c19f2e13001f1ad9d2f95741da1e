@@ -1,0 +1,16 @@
+package chap22_lambda;
+
+public class _05_LambdaEx {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	// 문자열 2개를 입력받아서
+	// 첫 번째 입력받은 문자열에서
+	// 두 분째 입력받은 문자열이 어느 위치(인덱스)에 있는 지 검사하는 메소드를 구현하세요.
+	// 
+	
+
+}

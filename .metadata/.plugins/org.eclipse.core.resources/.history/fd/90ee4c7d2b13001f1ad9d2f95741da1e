@@ -1,0 +1,16 @@
+package chap22_lambda;
+
+import chap22_lambda.basiclambda.ConcatString;
+
+public class _04_ReturnLambda {
+	public static void main(String[] args) {
+		
+	}
+	
+	public static String contc(String str1, String str2, ConcatString concat) {
+		Scanner sc = new Scanner(System.in);
+		
+		
+		return concat.concat(str1, str2);
+	}
+}
