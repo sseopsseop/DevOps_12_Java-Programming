@@ -5,7 +5,9 @@ import java.util.List;
 import java.util.stream.Stream;
 
 public class _02_StreamMethodOrder {
+
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		List<String> strList = new ArrayList<>();
 		
 		strList.add("java");
@@ -29,7 +31,25 @@ public class _02_StreamMethodOrder {
 		// 2-2. 최종처리
 		// 최종처리 메소드는 마지막에 한 번만 사용할 수 있다.
 		List<String> javaList = javaStream.toList();
-
+		
 		System.out.println(javaList);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
+
 }

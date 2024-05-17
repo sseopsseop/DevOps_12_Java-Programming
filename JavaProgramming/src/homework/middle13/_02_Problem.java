@@ -8,7 +8,6 @@ public class _02_Problem {
 
 		StringBuilder sb1 = new StringBuilder("Hello");
 		StringBuilder sb2 = new StringBuilder("World");
-		
 		System.out.println(combineStrBuilder(sb1, sb2));
 		
 	}

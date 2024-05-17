@@ -1,0 +1,14 @@
+package chap23_stream;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class _20_ParallelStreamSpeed {
+	public static void main(String[] args) {
+		List<Long> longList = new ArrayList<>();
+		
+		for(long i = 0; i < 100000000l; ++i) {
+			
+		}
+	}
+}
