@@ -1,5 +1,0 @@
-package chap16_usefulclass;
-
-public class _17_BigIntegerEx {
-	// 1~100 까지 곱한 값을 구하세요.(100 팩토리얼, 100!)
-}

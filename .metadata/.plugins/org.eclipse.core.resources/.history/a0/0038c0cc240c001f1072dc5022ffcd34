@@ -1,7 +1,0 @@
-package chap13_nestedclass;
-
-public class _03_AnonymousNestedClass {
-	public static void main(String[] args) {
-		
-	}
-}

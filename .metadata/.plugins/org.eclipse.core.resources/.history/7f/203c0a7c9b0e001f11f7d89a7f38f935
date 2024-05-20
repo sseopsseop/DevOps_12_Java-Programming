@@ -1,9 +1,0 @@
-package chap19_generic;
-
-import chap19_generic.box.Box;
-
-public class _01_ {
-	public static void main(String[] args) {
-		
-	}
-}
