@@ -1,0 +1,7 @@
+package chap23_stream;
+
+public class Test {
+	List<Long> longList = new ArrayList<>();
+	
+	
+}

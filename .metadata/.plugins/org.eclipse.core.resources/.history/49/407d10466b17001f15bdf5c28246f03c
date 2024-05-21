@@ -1,0 +1,14 @@
+package homework.basic12.first.variables;
+
+public class _08_Problem {
+	public static void main(String[] args) {
+		int inputSize = 10;
+		int[] intArr = new int[10];
+		int max = 0;
+		
+		Scanner sc = new Scanner(System.in);
+		for(int i = 0 ; i < inputSize; ++i) {
+			intArr
+		}
+	}
+}

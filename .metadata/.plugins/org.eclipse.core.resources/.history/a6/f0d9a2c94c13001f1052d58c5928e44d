@@ -1,0 +1,7 @@
+package chap22_lambda.reference;
+
+public class Academy {
+	private String subject;
+	private int studentCnt;
+	private long lectureTime;
+}

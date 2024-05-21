@@ -1,0 +1,6 @@
+package chap22_lambda.basiclambda;
+
+@FunctionalInterface
+public interface SingleMul {
+	// 매개변수가 하나인 
+}

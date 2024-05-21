@@ -1,0 +1,13 @@
+package chap22_lambda;
+
+public class _10_ReferenceConstructor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static Academy createComputerAcademy(ComputerAcademy computerAcademy) {
+		
+	}
+}

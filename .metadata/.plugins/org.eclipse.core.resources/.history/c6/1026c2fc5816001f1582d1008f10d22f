@@ -1,0 +1,20 @@
+package chap24_dataio;
+
+import java.util.Scanner;
+
+import chap24_dataio.phoneinfo.PhoneInfo;
+
+public class _08_BufferdReaderWriter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		PhoneInfo phoneInfo = new PhoneInfo();
+		
+		Scanner sc = new Scanner(System.in);s
+		
+		while(true) {
+			
+		}
+	}
+
+}

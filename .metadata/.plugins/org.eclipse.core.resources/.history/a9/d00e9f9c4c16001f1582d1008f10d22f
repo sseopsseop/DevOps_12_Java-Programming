@@ -1,0 +1,11 @@
+package chap24_dataio;
+
+public class _05_Wrtier {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 1. Writer 객체 생성
+		// 
+	}
+
+}

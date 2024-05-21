@@ -1,0 +1,21 @@
+package chap22_lambda;
+
+import chap13_nestedclass.nestedclass.NestedClass.Mul;
+import chap22_lambda.basiclambda.SingleMul;
+
+public class _03_ParameterLambda {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num1 = 10;
+		int num2 = 20;
+	}
+	
+	public static void mul(int a, int b, Mul mul) {
+		mul.mul(a, b);
+	}
+	
+	public static void singleMul(int a, SingleMul singleMul) {
+		singleMul.singleMultiply(a);
+	}
+}

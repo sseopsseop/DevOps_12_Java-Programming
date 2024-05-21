@@ -1,0 +1,10 @@
+package chap21_multithread.threads;
+
+public class SumThread01 extends Thread{
+	@Override
+	public void run() {
+		int sum = 0;
+		
+		
+	}
+}
