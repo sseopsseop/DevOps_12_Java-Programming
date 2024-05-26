@@ -1,0 +1,18 @@
+package chap24_dataio;
+
+import java.io.IOException;
+
+public class _12_FileClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			
+		} catch(IOException ie) {
+			// printStackTrace는 패키지정보, 클래스정보, 
+			ie.printStackTrace();
+			System.out.println(ie.getMessage());
+		}
+	}
+
+}

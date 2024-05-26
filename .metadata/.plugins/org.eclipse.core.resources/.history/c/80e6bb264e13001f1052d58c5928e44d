@@ -1,0 +1,20 @@
+package chap22_lambda;
+
+import chap22_lambda.reference.Academy;
+import chap22_lambda.reference.ComputerAcademy;
+
+public class _10_ReferenceConstructor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static Academy createComputerAcademy(ComputerAcademy computerAcademy) {
+		return computerAcademy.getComputerAcademy();
+	}
+	
+	public static Academy createEnglishAcademy(EnglishAcademy englishAcademy) {
+		
+	}
+}

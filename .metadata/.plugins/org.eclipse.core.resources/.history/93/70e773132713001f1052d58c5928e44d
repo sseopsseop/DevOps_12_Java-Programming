@@ -1,0 +1,15 @@
+package chap22_lambda;
+
+import chap13_nestedclass.nestedclass.NestedClass.Mul;
+
+public class _03_ParameterLambda {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static void mul(int a, int b, Mul mul) {
+		mul.mul(a, b);
+	}
+}

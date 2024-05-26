@@ -1,0 +1,17 @@
+package chap24_dataio;
+
+import java.io.IOException;
+
+public class _12_FileClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			
+		} catch(IOException ie) {
+			ie.printStackTrace();
+			System.out.println(ie.getMessage());
+		}
+	}
+
+}

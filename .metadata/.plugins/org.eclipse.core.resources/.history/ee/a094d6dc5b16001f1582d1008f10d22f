@@ -1,0 +1,20 @@
+package chap24_dataio;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+public class _09_DataInputOutputStream {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			// 1. DataOutputStream 객체 생성
+			// DataOutputStream은 
+		} catch(FileNotFoundException fe) {
+			System.out.println(fe.getMessage());
+		} catch(IOException ie) {
+			System.out.println(ie.getMessage());
+		}
+	}
+
+}

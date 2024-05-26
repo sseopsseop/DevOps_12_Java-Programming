@@ -1,0 +1,20 @@
+package chap22_lambda;
+
+import java.util.Scanner;
+
+import chap22_lambda.reference.Convertor;
+
+public class _08_ReferenceMethod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static void convertMoney(Convertor convertor) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("환전할 원화를 입력하세요.");
+		int money = sc.nextInt();
+	}
+}

@@ -1,0 +1,16 @@
+package chap22_lambda;
+
+import chap22_lambda.basiclambda.BasicCalculator;
+
+public class _07_LambdaEx03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static int calc(BasicCalculator basicCalculator) {
+		// 정수 두개 입력받고
+		// +, -, *, /, % 
+	}
+}

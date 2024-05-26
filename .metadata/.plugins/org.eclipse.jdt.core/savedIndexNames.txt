@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 INDEX VERSION 1.134+D:\Programming\bit_DevOps_12\Java\DevOps_12_Java-Programming\.metadata\.plugins\org.eclipse.jdt.core
 3413725848.index
 988354311.index
+=======
+INDEX VERSION 1.134+D:\lecture\Java\.metadata\.plugins\org.eclipse.jdt.core
+>>>>>>> 7e7b5cc5220f5818ba221f4655fc77b7956ad8f4
 1865797976.index
+3413725848.index
+988354311.index
