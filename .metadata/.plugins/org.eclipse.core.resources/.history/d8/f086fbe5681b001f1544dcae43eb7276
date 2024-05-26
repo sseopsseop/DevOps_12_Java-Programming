@@ -1,0 +1,8 @@
+package homework.basic12.first.variables;
+
+public class _05_Problem {
+	public static void main(String[] args) {
+//		5. 사용자가 입력한 세 정수의 최소 값, 중간 값, 최대 값을 출력하세요.
+		
+	}
+}
