@@ -24,6 +24,7 @@ public class _05_Problem {
 				}
 			}
 		}
+		
 		System.out.println("최소값 : " + inputIntArr[0]);
 		System.out.println("중간값 : " + inputIntArr[1]);
 		System.out.println("최대값 : " + inputIntArr[2]);
