@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="homework.advance02.RockScissPaper"/>
-    <fullyQualifiedTypeName name="chap07_class.car.Car"/>
-    <fullyQualifiedTypeName name="chap08_static.car.CarStatic"/>
-    <fullyQualifiedTypeName name="chap09_inherit.car.KiaCarInherit"/>
     <fullyQualifiedTypeName name="chap09_inherit.car.HyundaiCarInherit"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
     <fullyQualifiedTypeName name="chap10_polymorphism.member.Member"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="chap20_enum.enums.Season"/>
     <fullyQualifiedTypeName name="V"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="chap25_jdbc.JDBCUtil"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
 </qualifiedTypeNameHistroy>

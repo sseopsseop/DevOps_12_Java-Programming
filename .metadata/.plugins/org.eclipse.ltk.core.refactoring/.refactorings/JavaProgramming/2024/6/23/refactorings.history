@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;chap07_class._03_UseofCircle.java&apos; to &apos;_03_UseOfCircle.java&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgramming&apos;&#x0D;&#x0A;- Original element: &apos;chap07_class._03_UseofCircle.java&apos;&#x0D;&#x0A;- Renamed element: &apos;chap07_class._03_UseOfCircle.java&apos;" description="Rename compilation unit &apos;_03_UseofCircle.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;chap07_class{_03_UseofCircle.java" name="_03_UseOfCircle.java" references="false" stamp="1717462009031" version="1.0"/>
+</session>

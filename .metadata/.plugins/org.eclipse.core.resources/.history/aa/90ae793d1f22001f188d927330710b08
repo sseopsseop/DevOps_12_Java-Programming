@@ -1,0 +1,12 @@
+package chap25_jdbc;
+
+import java.sql.Connection;
+import java.sql.Statement;
+
+public class _03_JDBC_Insert {
+	public static void main(String[] args) {
+		Connection conn = null;
+		Statement stmt = null;
+		
+	}
+}

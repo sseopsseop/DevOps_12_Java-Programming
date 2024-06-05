@@ -1,0 +1,15 @@
+package chap25_jdbc;
+
+public class _04_JDBC_Update {
+	public static void main(String[] args) {
+		
+		
+		try {
+			
+		}catch(SQLException se) {
+			
+		}finally {
+			JDBCUtil.close(null, null);
+		}
+	}
+}

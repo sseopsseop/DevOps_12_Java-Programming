@@ -1,7 +1,0 @@
-package chap21_multithread;
-
-public class _13_ThreadPool {
-	public static void main(String[] args) {
-		
-	}
-}	

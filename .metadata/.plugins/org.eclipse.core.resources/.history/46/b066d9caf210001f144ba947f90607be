@@ -1,8 +1,0 @@
-package chap20_enum;
-
-public class _02_DefaultEnum {
-	public static void main(String[] args) {
-		// 1. Enum은 객체처럼 사용
-		DefaultMonth defaultMonth = DeafaultMonth.JAN;
-	}
-}

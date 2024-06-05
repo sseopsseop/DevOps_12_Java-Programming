@@ -1,0 +1,21 @@
+package chap25_jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class _03_JDBC_Insert {
+	public static void main(String[] args) {
+		Connection conn = null;
+		PreparedStatement stmt = null;
+		
+		// Statement를 상속받은 PreparedStatement 객체
+		// PreparedStatement는 쿼리에 파라미터를 추가할 수 있다.
+		
+		try {
+			conn = JDBCUtil.
+		}catch(SQLException se) {
+			System.out.println(se.getMessage());
+		}
+	}
+}

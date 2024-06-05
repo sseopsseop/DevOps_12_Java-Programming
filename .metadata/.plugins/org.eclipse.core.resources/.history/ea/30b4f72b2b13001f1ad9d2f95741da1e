@@ -1,9 +1,0 @@
-package chap22_lambda;
-
-public class _04_ReturnLambda {
-	public static void main(String[] args) {
-		
-	}
-	
-	public static contc(String str1, String str2, ConcatString concat)
-}

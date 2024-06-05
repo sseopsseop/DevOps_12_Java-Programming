@@ -1,0 +1,11 @@
+package chap25_jdbc;
+
+import java.sql.Connection;
+
+public class JDBCUtil {
+	public static Connection getConnection(String url, String username, String password) {
+		
+	}catch(Exception e) {
+		System.out.println(e.getMessage());
+	}
+}

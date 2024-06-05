@@ -1,8 +1,0 @@
-package chap22_lambda.reference;
-
-public class MoneyConverter {
-	// 1. static 참조 메소드
-	public static int converter(int money, char ch) {
-		
-	}
-}

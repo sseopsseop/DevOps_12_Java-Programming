@@ -1,0 +1,28 @@
+package chap25_jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+public class _03_JDBC_Insert {
+	public static void main(String[] args) {
+		Connection conn = null;
+		// Statement를 상속받은 PreparedStatement 객체
+		// PreparedStatement는 쿼리에 파라미터를 추가할 수 있다.
+		PreparedStatement stmt = null;
+		
+		Scanner sc = new Scanner(System.in);
+		
+		try {
+			System.out.print("학번을 입력하세요 : ");
+			String sno = sc.nextLine();
+			System.out.println("이름을 입력하세요 : ");
+			String sname = sc.nextLine();
+			conn = JDBCUtil.getConnection("jdbc:oracle:thin:@localhost:1521:xe", 
+					"c##study", "!dkdlxl1234");
+		}catch(SQLException se) {
+			System.out.println(se.getMessage());
+		}
+	}
+}

@@ -1,0 +1,13 @@
+package chap25_jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+public class _05_JDBC_Delete {
+	public static void main(String[] args) {
+		Connection conn = null;
+		PreparedStatement stmt = null;
+		
+		
+	}
+}

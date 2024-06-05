@@ -1,0 +1,7 @@
+package chap25_jdbc;
+
+public class _03_JDBC_Insert {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,9 @@
+package chap25_jdbc;
+
+public class _02_JDBC_Select {
+	public static void main(String[] args) {
+		// JDBC를 이용해서 과목별 기말고사의 평균 성적 조회
+		// (과목번호, 과목이름, 교수번호, 교수이름, 기말고사 성적의 평균점수)
+		
+	}
+}

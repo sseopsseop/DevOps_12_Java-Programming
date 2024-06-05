@@ -1,0 +1,7 @@
+package chap25_jdbc;
+
+public class JDBCUtil {
+	public static Connection getConnection() {
+		
+	}
+}

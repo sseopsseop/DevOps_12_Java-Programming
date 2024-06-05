@@ -1,6 +1,0 @@
-package chap22_lambda.basiclambda;
-
-@FunctionalInteface
-public interface ConcatString {
-
-}

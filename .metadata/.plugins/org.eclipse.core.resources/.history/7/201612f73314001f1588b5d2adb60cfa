@@ -1,5 +1,0 @@
-package homework.middle14;
-
-public class Student {
-//	int sno, String sName, int score, String grade를 갖는 Student 클래스
-}

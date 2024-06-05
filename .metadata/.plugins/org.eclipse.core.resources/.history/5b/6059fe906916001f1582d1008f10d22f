@@ -1,6 +1,0 @@
-package chap24_dataio.car;
-
-// 직렬화(Serialization): 
-public class Car {
-
-}

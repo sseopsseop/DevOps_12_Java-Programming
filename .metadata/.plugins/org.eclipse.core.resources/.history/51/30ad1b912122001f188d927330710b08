@@ -1,0 +1,18 @@
+package chap25_jdbc;
+
+public class _04_JDBC_Update {
+	public static void main(String[] args) {
+		// 사용자가 입력한 sno에 해당하는 학생의 정보를
+		// 사용자가 입력한 내용으로 JDBC를 이용해서 수정
+		
+		
+		
+		try {
+			
+		}catch(SQLException se) {
+			
+		}finally {
+			JDBCUtil.close(null, null);
+		}
+	}
+}

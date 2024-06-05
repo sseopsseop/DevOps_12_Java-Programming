@@ -1,7 +1,0 @@
-package homework.basic10;
-
-public class _01_Problem {
-	public static void main(String[] args) {
-//		1. 멤버변수로 private T t를 가지면서 getT(), setT() 메소드를 갖는 제네릭클래스 GenericCla를 생성하세요.
-	}
-}

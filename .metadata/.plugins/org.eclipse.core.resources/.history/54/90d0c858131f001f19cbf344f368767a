@@ -1,0 +1,7 @@
+package chap99_homework.homework14;
+
+import chap99_homework.TestA;
+
+public class TestB {
+	public TestA testA;
+}

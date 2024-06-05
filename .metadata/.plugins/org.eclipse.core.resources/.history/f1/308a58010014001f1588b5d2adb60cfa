@@ -1,9 +1,0 @@
-package chap23_stream;
-
-public class _07_FilesToStream {
-	try {
-		
-	}catch(URISyntaxException e) {
-		
-	}
-}

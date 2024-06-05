@@ -1,0 +1,22 @@
+package chap25_jdbc;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class _05_JDBC_Delete {
+	public static void main(String[] args) {
+		Connection conn = null;
+		PreparedStatement stmt = null;
+		Scanner sc = new Scanner(System.in);
+		
+		try {
+			
+		}catch(SQLException se) {
+			System.out.println(se.getMessage());
+		}finally {
+			JDBCUtil.close(stmt, conn);
+		}
+		
+	}
+}

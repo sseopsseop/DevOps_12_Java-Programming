@@ -1,7 +1,0 @@
-package chap22_lambda;
-
-public class _03_ParameterLambda {
-	public static void main(String[] args) {
-		
-	}
-}
